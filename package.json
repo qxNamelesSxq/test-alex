@@ -20,7 +20,7 @@
     "react-dom": "^18"
   },
   "lint-staged": {
-    "**/*.{js,jsx,json}": [
+    "**/*.{js,jsx,json,tsx}": [
       "eslint . --fix",
       "prettier --write ."
     ]
@@ -39,6 +39,7 @@
     "husky": "^8.0.3",
     "lint-staged": "^15.0.2",
     "prettier": "^3.0.3",
-    "typescript": "^5"
+    "typescript": "^5",
+    "webpack": "^5.89.0"
   }
 }
