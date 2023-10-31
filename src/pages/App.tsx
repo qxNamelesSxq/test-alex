@@ -4,6 +4,7 @@ const App = () => (
   <div>
     <h1>My React App</h1>
     <h2>sss</h2>
+    <h3>sdqw</h3>
     <p>This is a simple React app written in TypeScript.</p>
   </div>
 );
